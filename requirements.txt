@@ -1,0 +1,7 @@
+
+app-store-scraper
+pandas
+openpyxl
+
+
+

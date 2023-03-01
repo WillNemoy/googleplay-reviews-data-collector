@@ -8,9 +8,9 @@ Collect New York Times article data based on a search topic.
 Create and activate a virtual environment:
 
 ```sh
-conda create -n appstore-env python=3.8
+conda create -n appreviews-env python=3.8
 
-conda activate appstore-env
+conda activate appreviews-env
 ```
 
 Install package dependencies:
